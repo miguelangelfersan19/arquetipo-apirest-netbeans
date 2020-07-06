@@ -1,0 +1,3 @@
+arquitipo mvn
+
+mvn archetype:generate -DgroupId=com.atusuarios -DartifactId=usuario1 -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
